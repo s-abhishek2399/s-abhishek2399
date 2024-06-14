@@ -5,8 +5,7 @@ Hi there , I am Abhishek Singh👋
 
 
 
-- 🔭 I'm Currently studying in Sagi Ramakrishnam Raju Engineering College. 
-- 🔭 I’m currently working on Web development 
+- 🔭 I'm Currently working in Tata Consultancy Services as a Frontend Developer. 
 - 🌱 I’m currently learning  React, NodeJS 
 - 📫 How to reach me: s.abhishek2399@gmail.com 
 - ⚡ Fun fact: I love watching anime
